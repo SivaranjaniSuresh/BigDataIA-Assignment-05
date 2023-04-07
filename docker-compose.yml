@@ -1,0 +1,12 @@
+version: '3'
+services:
+  localelore:
+    image: localelore:v1
+    environment:
+      - OPEN_AI_API=${OPEN_AI_API} 
+      - UNSPLASH_API_KEY=${UNSPLASH_API_KEY}
+      - places_api_key=${places_api_key}
+      - maps_api_key=${maps_api_key}
+      - GOOGLE_APPLICATION_CREDENTIALS=${GOOGLE_APPLICATION_CREDENTIALS}
+    ports:
+      - "8081:8080"
