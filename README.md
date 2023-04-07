@@ -1,4 +1,6 @@
-# LocalLore
+# LocalLore - Let us do the planning, you do the exploring
+
+The problem that this project aims to solve is that travelers often face difficulties in managing their itinerary, communicating with locals, and keeping track of their expenses while traveling to a new place. They may also face challenges in finding emergency contacts and exchanging currency. This can cause inconvenience and impact their overall travel experience. The proposed solution is to create a one-stop-shop application that addresses all these issues and provides a seamless travel experience to users.
 
 This project is a speech-to-text pipeline that can transcribe audio files and generate a transcript of the speech. The project can also answer default and custom question asked by the user using the GPT-3.5 Turbo model.
 
