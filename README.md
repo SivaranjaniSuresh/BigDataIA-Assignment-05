@@ -83,7 +83,3 @@ To run this project, you will need:
 - places_api_key = <places_api_key> <- should be given in double quotes ("")
 - maps_api_key = <maps_api_key> <- should be given in double quotes ("")
 - GOOGLE_APPLICATION_CREDENTIALS= <GOOGLE_APPLICATION_CREDENTIALS.json> <- should be given in double quotes ("")
-
-
-## ATTESTATION:
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.
